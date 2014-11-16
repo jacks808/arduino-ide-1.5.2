@@ -35,9 +35,9 @@
 //
 
 // return values:
-// DHTLIB_OK
-// DHTLIB_ERROR_CHECKSUM
-// DHTLIB_ERROR_TIMEOUT
+// DHTLIB_OK                 0
+// DHTLIB_ERROR_CHECKSUM    -1
+// DHTLIB_ERROR_TIMEOUT     -2
 int dht::read11(uint8_t pin)
 {
     // READ VALUES
