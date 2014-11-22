@@ -1,3 +1,25 @@
+### Please read Arduino Playground - LibraryList.html first ###
+
+HomePage http://arduino.cc/en/Reference/HomePage
+PlayGround http://playground.arduino.cc/
+Libraries http://playground.arduino.cc/Main/LibraryList
+
+
+
+./SimpleSDAudio
+    Play audio files with your Arduino in decent quality from SD card, only very few additional hardware required, easy to use library. Mono, stereo and even 16-bit.
+./toneAC
+    Twice the volume of the standard tone library (AC push/pull). Also higher/lower frequencies, smaller compiled size, bug fixes, volume setting, and uses timer 1 which may free up conflicts.
+./Mozzi
+    sound synthesis library with familiar audio and control rate synthesis units like oscillators, delays, filters and envelopes. Includes documentation and example sketches. Open source and extendable.
+./SID
+    MOS 6581 SID sound chip emulator library
+./SMARTWAV
+    Library for the SmartWAV Audio Processor board.
+    
+./ArduinoJson
+    An efficient JSON parser for Arduino
+    
 ./DS1302
     clock library
 ./ProtoThreads1.4
