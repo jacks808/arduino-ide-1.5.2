@@ -1,0 +1,37 @@
+#######################################
+# Syntax Coloring Map For SMART WAV
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SMARTWAV	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+reset                KEYWORD2
+sleep                KEYWORD2
+getStatus            KEYWORD2
+playTracks           KEYWORD2
+pausePlay            KEYWORD2
+rewindTrack          KEYWORD2
+nextTrack            KEYWORD2
+playTrackName        KEYWORD2
+stopTrack            KEYWORD2
+continuousPlay       KEYWORD2
+volume               KEYWORD2
+setFolder            KEYWORD2
+getFileName          KEYWORD2
+getFolderName        KEYWORD2
+getFileList          KEYWORD2
+getFolderList        KEYWORD2
+playSpeed            KEYWORD2
+
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
