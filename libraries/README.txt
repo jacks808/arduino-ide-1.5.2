@@ -24,14 +24,14 @@ Libraries http://playground.arduino.cc/Main/LibraryList
     clock library
 ./ProtoThreads1.4
     multithreading library
-./DHT-温度传感器
+./DHT-温度传感器 temperature sensor library
     DHT library
     Class for DHTxx sensors (xx = 11-21-22-33-44).
     http://playground.arduino.cc/Main/DHTLib
 ./Adafruit_Sensor
-    Adafruit传感器基础库
+    Adafruit传感器基础库 Adafruit Sensor base library
 ./Adafruit_BMP085
-    Adafruit海拔气压计库
+    Adafruit海拔气压计库 Adafruit temperature and altitude library.
     #压力传感器范围：300-1100hPa(对应海拔9000米 至 -500米)分辨率：0.03hpa/0.25米温度传感器范围：-40℃ +85℃ ±2℃误差值I2C数据接口3.3V/5V双电平方案
     
 All Library comes from http://playground.arduino.cc/Main/LibraryList and github.com
