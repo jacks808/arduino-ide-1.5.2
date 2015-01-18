@@ -28,5 +28,9 @@ Libraries http://playground.arduino.cc/Main/LibraryList
     DHT library
     Class for DHTxx sensors (xx = 11-21-22-33-44).
     http://playground.arduino.cc/Main/DHTLib
+./Adafruit_Sensor
+    Adafruit传感器基础库
+./Adafruit_BMP085
+    Adafruit海拔气压计库
     
 All Library comes from http://playground.arduino.cc/Main/LibraryList
