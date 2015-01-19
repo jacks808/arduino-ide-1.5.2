@@ -33,5 +33,7 @@ Libraries http://playground.arduino.cc/Main/LibraryList
 ./Adafruit_BMP085
     Adafruit海拔气压计库 Adafruit temperature and altitude library.
     #压力传感器范围：300-1100hPa(对应海拔9000米 至 -500米)分辨率：0.03hpa/0.25米温度传感器范围：-40℃ +85℃ ±2℃误差值I2C数据接口3.3V/5V双电平方案
+./BeeNoisy_L3G4200D
+	陀螺仪库  library of gyroscope 
     
 All Library comes from http://playground.arduino.cc/Main/LibraryList and github.com
