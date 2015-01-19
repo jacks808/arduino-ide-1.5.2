@@ -1510,6 +1510,8 @@ void ADXL345::setRange(uint8_t range) {
  * through Register 0x37. All data, except that for the +/-16 g range, must be
  * clipped to avoid rollover.
  *
+ * If you want to get accleration value of G, Please use like this: G = acc / 256.0;
+ *
  * @param x 16-bit signed integer container for X-axis acceleration
  * @param y 16-bit signed integer container for Y-axis acceleration
  * @param z 16-bit signed integer container for Z-axis acceleration
